@@ -7,7 +7,7 @@ for (let anchor of anchors){
             behavior: "smooth",
             block: "start"
 
-        })
+        });
 
     });
-}
+};
